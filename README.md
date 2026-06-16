@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime, baby, si esta noche tú te vienes conmigo,
+> Dejamos atrás la disco y perdemos el abrigo,
+> Ese flow de motomami me tiene hipnotizado,
+> Quiero ser el dueño de todo lo que has callado.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dulce entrega
+
+This log tracks the cryptographic history and versioning for the song **Dulce entrega** (dulce-entrega).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T22:26:31.920141 | `v1` | `9111f87f154e25aba8b26263ce86886a19deb2ac289a7ac21a3a6cbe131eb8d5` | `587c3833cdb41847e2c1561f715c6dcd7d3e1c0198a869b85338a3cda0bbb944` | `2026-06-16_dulce-entrega-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

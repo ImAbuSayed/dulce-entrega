@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-entrega/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Dulce entrega](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-entrega/) |
+| **Get License** | [Get License For Dulce entrega](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-entrega/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9111f87f154e25aba8b26263ce86886a19deb2ac289a7ac21a3a6cbe131eb8d5` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
